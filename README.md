@@ -1,0 +1,2 @@
+# premium-cigar-box-radio-001-cigar-box-crystal-radio-coil
+Tired of losing track of your coil specifications, winding notes, and crystal radio build progress across scattered notebooks and phone photos? The Cigar Box Crystal Radio &amp; Coil Wind Hub centralizes your entire build journey in one beautifully organized Notion workspace.  This isn't just another template—it's a purpose-built system designed specif
